@@ -129,3 +129,6 @@ Bot:  🔥 Racha actual: 7 días
 ## 📄 Licencia
 
 MIT — úsalo, modifícalo y compártelo libremente.
+
+## Muestras
+<img width="590" height="1278" alt="IMG_4344" src="https://github.com/user-attachments/assets/7dcc1f5e-66fb-463b-a608-166849cde590" />
